@@ -1,0 +1,16 @@
+
+{
+  "location": "K P Towers",
+  "availability": {
+    "car": 1,
+    "bike": 290
+  },
+  "currently_in": [
+    {
+      "vehicle_number": "DL1CAF8567",
+      "vehicle_type": "CAR",
+      "in_time": "2026-01-07 12:38:17",
+      "status": "ALLOWED"
+    }
+  ]
+}
